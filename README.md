@@ -1,4 +1,4 @@
-#Prework Study Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 This study guide is for people new to the coding bootcamp. The topics covered in this study guide are HTML, CSS, Git, and JavaScript. 
